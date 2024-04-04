@@ -5,6 +5,3 @@ scikit-learn
 seaborn
 -e .
 
-'''
-pandas\nnumpy\nflask 
-'''
