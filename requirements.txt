@@ -3,5 +3,7 @@ numpy
 flask
 scikit-learn
 seaborn
+pickles
+typing
 -e .
 
