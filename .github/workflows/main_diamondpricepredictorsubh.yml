@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'DiamondPricePredictorSUBH'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5BAD6A9C58FF41F296A7CA562CFC4A2E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1C441BDDB4234B189F38219E3E2CFB94 }}
